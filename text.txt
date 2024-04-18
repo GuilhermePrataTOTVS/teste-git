@@ -1,0 +1,3 @@
+Projeto clonado com sucesso!
+
+Quando é feito o git clone de um repositório, todos os arquivos que estiverem no repositório no GitHub será copiado para seu diretório onde foi feito o clone.
